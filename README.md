@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5cmw1r9f8g485nbd?svg=true)](https://ci.appveyor.com/project/SvetlanaKh-1/webtestpatternstask2)
